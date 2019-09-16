@@ -18,6 +18,7 @@ package iterations.binarygap;
  * N is an integer within the range [1..2,147,483,647].
  * @author Lentini Alessio
  */
+
 public class Solution {
     public int solution(int N) {
         String binary = Integer.toBinaryString(N);
