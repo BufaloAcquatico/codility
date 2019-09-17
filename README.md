@@ -1,2 +1,2 @@
-# codility
-Codility's challenges solutions in Java
+# Codility
+Codility's lessons solutions in Java
